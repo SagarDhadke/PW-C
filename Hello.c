@@ -1,3 +1,4 @@
+//file ko include karo stdio.h means standend input output
 #include<stdio.h>
 
 int main(){
